@@ -1,3 +1,28 @@
+# section from github:fastai/nbdev
+
+#_publish.yml
+#_quarto.yml
+_proc/
+#tests/settings.ini
+#idx/
+#.install
+#conda/
+#_site/
+#_docs/
+#test_settings.ini
+
+*.bak
+.gitattributes
+.last_checked
+.gitconfig
+*.bak
+*.log
+*~
+~*
+_tmp*
+tmp*
+tags
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

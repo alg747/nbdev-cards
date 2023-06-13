@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-cards"
+  site-url: "https://alg747.github.io/nbdev-cards"
+  description: "A simple API for creating and using playing cards"
+  repo-branch: main
+  repo-url: "https://github.com/alg747/nbdev-cards"
